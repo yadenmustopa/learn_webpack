@@ -1,2 +1,4 @@
 # learn_webpack
-learn webpack before learn vite for skill improvement
+
+## Crate automatice Configuration
+⚙ [create Your Configuration]( https://createapp.dev/)
